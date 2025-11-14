@@ -1,1 +1,2 @@
 # To-Do-List
+This is a dynamic web application built using HTML, CSS, and vanilla JavaScript that allows users to efficiently manage their tasks. The app lets users add new tasks, mark tasks as completed, and remove tasks they no longer need. With a clean and user-friendly interface, it helps users stay organized and track their daily activities. The app demonstrates DOM manipulation, event handling, and local task management using core JavaScript concepts, making it a practical example of front-end development skills.
